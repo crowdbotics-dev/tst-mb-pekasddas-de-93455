@@ -3,7 +3,7 @@ from django.db import models
 class Hello(models.Model):
     'Generated Model'
     addsdd = models.BigIntegerField(blank=True,)
-    klklkjjrdd = models.BigIntegerField(null=True,blank=True,)
+    klklkjjrddkjgg = models.BigIntegerField(null=True,blank=True,)
 class Hii(models.Model):
     'Generated Model'
     dsdds = models.BigIntegerField()
